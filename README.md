@@ -1,4 +1,4 @@
-# Maeshmellow Theme for VSCode
+# Marshmellow Theme for VSCode
 [![license](https://img.shields.io/badge/license-MIT-9ee0e0)](https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code/blob/main/LICENSE)
 [![release](https://img.shields.io/badge/release-v0.0.1-9ee0e0)](https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code/releases/tag/release)
 [![VSCode](https://img.shields.io/badge/compatibility-%3E=1.65.0-9ee0e0/?logo=visualstudiocode&color=9ee0e0)](https://code.visualstudio.com)
