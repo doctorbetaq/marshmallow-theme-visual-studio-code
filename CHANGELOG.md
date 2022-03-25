@@ -1,9 +1,7 @@
-# Change Log
+#MarshMallow theme for VSCode CHANGELOG
 
-All notable changes to the "marshmallow" extension will be documented in this file.
+## 2020-03-25
+- Initial release and debug v0.0.1-v0.0.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
-- Initial release
+Copyright 2022-present WhirlingPlumage-Studio 
