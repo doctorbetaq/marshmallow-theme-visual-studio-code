@@ -10,4 +10,4 @@
 ☕ Settings by [Dr.βQ](https://twitter.com/Dr_betaQ)
 
 ## Preview
-![preview](https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code/blob/main/pictures/demo1.png)
+<p align="center"><img src="https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code/blob/main/pictures/demo1.png?raw=true"/></p>
