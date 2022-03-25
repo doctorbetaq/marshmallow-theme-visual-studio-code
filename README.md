@@ -1,4 +1,4 @@
-# Plumage Theme for VSCode
+# Maeshmellow Theme for VSCode
 
 🎵 This Project is maintained by [Whirling plumage studio](https://www.facebook.com/WhirlingPlumage/?ref=pages_you_manage).
 
