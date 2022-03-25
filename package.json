@@ -1,21 +1,33 @@
 {
-    "name": "marshmallow",
-    "displayName": "MarshMallow",
-    "description": "MarshMallow theme for VSCode by WhirlingPlumage Studio",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "MarshMallow",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MarshMallow-color-theme.json"
-            }
-        ]
-    }
+	"name": "marshmallow",
+	"displayName": "MarshMallow",
+	"description": "MarshMallow theme for VSCode by WhirlingPlumage Studio",
+	"icon": "pictures/icon.png",	
+	"version": "0.0.1",
+	"publisher": "WhirlingPlumage-Studio",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MarshMallow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MarshMallow-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "abc16695-1f13-4dde-9fd7-6019da02dc8c",
+		"publisherDisplayName": "WhirlingPlumage",
+		"publisherId": "44683120-6144-4d55-ad57-d95935311709",
+		"isPreReleaseVersion": false
+	}
 }
