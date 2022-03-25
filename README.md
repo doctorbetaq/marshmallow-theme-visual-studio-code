@@ -5,4 +5,4 @@
 ☕ Settings by [Dr.βQ](https://twitter.com/Dr_betaQ)
 
 ## Preview
-![preview](https://github.com/doctorbetaq/Plumage-theme-Visual-Studio-Code/blob/main/pictures/demo1.png)
+![preview](https://github.com/doctorbetaq/marshmellow-theme-Visual-Studio-Code/blob/main/pictures/demo1.png)
