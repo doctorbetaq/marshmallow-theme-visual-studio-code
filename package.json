@@ -3,7 +3,7 @@
 	"displayName": "MarshMallow",
 	"description": "MarshMallow theme for VSCode by WhirlingPlumage Studio",
 	"icon": "pictures/icon.png",	
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "WhirlingPlumage-Studio",
 	"repository": {
 		"type": "git",
