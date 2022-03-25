@@ -1,0 +1,21 @@
+{
+    "name": "marshmallow",
+    "displayName": "MarshMallow",
+    "description": "MarshMallow theme for VSCode by WhirlingPlumage Studio",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MarshMallow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MarshMallow-color-theme.json"
+            }
+        ]
+    }
+}
