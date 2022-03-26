@@ -11,3 +11,11 @@
 
 ## Preview
 <p align="center"><img src="https://github.com/doctorbetaq/marshmallow-theme-visual-studio-code/blob/main/pictures/demov0.0.3.png?raw=true"/></p>
+
+##Install
+1. You can find the "MarshMallow" theme on VSCode marketplace. 
+2. Simply hit "install".
+3. Enjoy the cute MarshMallow theme of VSCode!❤️
+
+
+© Copyright 2022-present WhirlingPlumage-Studio
