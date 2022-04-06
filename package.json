@@ -29,9 +29,5 @@
 		"publisherDisplayName": "WhirlingPlumage",
 		"publisherId": "44683120-6144-4d55-ad57-d95935311709",
 		"isPreReleaseVersion": false
-	},
-	"scripts": {
-  		...
-  		"coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls"
 	}
 }
