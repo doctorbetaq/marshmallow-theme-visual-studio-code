@@ -5,7 +5,7 @@
 [![julia](https://img.shields.io/badge/SyntaxHighlighting-Julia-9ee0e0/?logo=julia&color=9ee0e0)](https://julialang.org/)
 [![WPstudio](https://img.shields.io/badge/Studio-WhirlingPlumage-9ee0e0)](https://www.facebook.com/WhirlingPlumage)
 [![Build Status](https://app.travis-ci.com/doctorbetaq/marshmallow-theme-visual-studio-code.svg?branch=main)](https://app.travis-ci.com/doctorbetaq/marshmallow-theme-visual-studio-code)
-[Installations](https://vsmarketplacebadge.apphb.com/installs/MarshMallow.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=9ee0e0)
+[![Installations](https://vsmarketplacebadge.apphb.com/installs/MarshMallow.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=9ee0e0)]
 🎵 This Project is maintained by [Whirling plumage studio](https://www.facebook.com/WhirlingPlumage/?ref=pages_you_manage).
 
 ☕ Settings by [Dr.βQ](https://twitter.com/Dr_betaQ)
