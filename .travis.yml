@@ -5,7 +5,9 @@ node_js:
 os:
   - linux
   - osx
+  - macOS
   - windows
+  - windows 11
 install:
     - npm install
 script:
