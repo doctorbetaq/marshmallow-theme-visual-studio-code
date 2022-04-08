@@ -4,6 +4,9 @@
 [![VSCode](https://img.shields.io/badge/compatibility-%3E=1.65.0-9ee0e0/?logo=visualstudiocode&color=9ee0e0)](https://code.visualstudio.com)
 [![julia](https://img.shields.io/badge/SyntaxHighlighting-Julia-9ee0e0/?logo=julia&color=9ee0e0)](https://julialang.org/)
 [![WPstudio](https://img.shields.io/badge/Studio-WhirlingPlumage-9ee0e0)](https://www.facebook.com/WhirlingPlumage)
+[![VSM](https://vsmarketplacebadge.apphb.com/version-short/WhirlingPlumage-Studio.MarshMallow.svg?color=9ee0e0)](https://marketplace.visualstudio.com/items?itemName=WhirlingPlumage-studio.marshmallow)
+[![download](https://vsmarketplacebadge.apphb.com/downloads/WhirlingPlumage-Studio.MarshMallow.svg?color=9ee0e0)](https://marketplace.visualstudio.com/items?itemName=WhirlingPlumage-studio.marshmallow)
+[![rating](https://vsmarketplacebadge.apphb.com/rating-star/WhirlingPlumage-Studio.MarshMallow.svg?color=9ee0e0)](https://marketplace.visualstudio.com/items?itemName=WhirlingPlumage-studio.marshmallow&ssr=false#review-details)
 [![Build Status](https://app.travis-ci.com/doctorbetaq/marshmallow-theme-visual-studio-code.svg?branch=main)](https://app.travis-ci.com/doctorbetaq/marshmallow-theme-visual-studio-code)
 
 🎵 This Project is maintained by [Whirling plumage studio](https://www.facebook.com/WhirlingPlumage/?ref=pages_you_manage).
